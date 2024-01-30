@@ -1,8 +1,9 @@
 Fuel;Pmax in MW;Pmin in MW;variable costs in EUR/MWh;startup cost in EUR;fix operating cost in EUR/h;Emissionsfaktor kg_CO2/MWh_el
 Biomass;82;1;50;10;4600;0
-Gas;1450;1;35;280;3800;455
+Gas;1250;1;35;280;3800;455
 Hard_Coal;1487;223,05;15;420;7000;891
 Lignite;1320;264;6;420;7800;1225
 Uranium;666;219,78;5;10000;11000;0
 Oil;135;1;38;280;3800;776
-Water;146;1;0;1;5000;0
+Water;146;1;0;1;3000;0
+CHP_Gas;200;1;35;280;3800;455
